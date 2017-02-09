@@ -1,6 +1,6 @@
 'use strict';
 
-var plusOneSum = require('./main');
+var plusOneSum = require('../main.js');
 require('chai');
 var assert = require('assert');
 
